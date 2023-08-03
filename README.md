@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github.com/shubhamvk03/shubhamvk03" alt="shubhamvk03" /></p>
 
-<p><img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png/?user=shubhamvk03&" alt="shubhamvk03" /></p>
+<p><img align="center" src="/?user=shubhamvk03&" alt="shubhamvk03" /></p>
