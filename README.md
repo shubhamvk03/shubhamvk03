@@ -3,11 +3,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Surya86899&label=Profile%20views&color=0e75b6&style=flat" alt="Surya86899" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 
-- 🔭 I’m currently working on [Building Management System](https://github.com/Surya86899/BMS)
+- 🔭 I’m currently working on [Building Management System](https://github.com/shubhamvk03/shubhamvk03)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Java Script**
 
-- 💬 Ask me about **Database and Java**
+- 💬 Ask me about **Frontend Devlopment**
 
 - 📫 How to reach me **shubhamvk03@gmail.com**
 
@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github.com/shubhamvk03/shubhamvk03" alt="shubhamvk03" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamvk03&" alt="shubhamvk03" /></p>
+<p><img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png/?user=shubhamvk03&" alt="shubhamvk03" /></p>
