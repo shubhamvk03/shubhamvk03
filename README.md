@@ -9,11 +9,11 @@
 
 - 💬 Ask me about **Database and Java**
 
-- 📫 How to reach me **vu4f2122034@pvppcoe.ac.in**
+- 📫 How to reach me **shubhamvk03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/K Suryanarayan Dora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="K Suryanarayan Dora" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/shubham-karande-8207b5252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shubham Karande" height="30" width="40" /></a>
 <a href="https://fb.com/Surya Dora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Surya Dora" height="30" width="40" /></a>
 <a href="https://instagram.com/khiladi_0507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khiladi_0507" height="30" width="40" /></a>
 </p>
