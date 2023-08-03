@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Surya86899&show_icons=true&locale=en&layout=compact" alt="Surya86899" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Surya86899&show_icons=true&locale=en" alt="Surya86899" /></p>
+<p>&nbsp;<img align="center" src="https://github.com/shubhamvk03/shubhamvk03" alt="shubhamvk03" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Surya86899&" alt="Surya86899" /></p>
