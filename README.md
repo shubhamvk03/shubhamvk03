@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamvk03&show_icons=true&locale=en&layout=compact" alt="shubhamvk03" /></p>
 
-<p>&nbsp;<img align="center" src="https://github.com/shubhamvk03/shubhamvk03" alt="shubhamvk03" /></p>
+<p>&nbsp;<img align="center" src="[https://github.com/shubhamvk03/shubhamvk03](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="shubhamvk03" /></p>
 
-<p><img align="center" src="/?user=shubhamvk03&" alt="shubhamvk03" /></p>
+
